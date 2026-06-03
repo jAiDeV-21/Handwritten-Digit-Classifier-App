@@ -1,4 +1,3 @@
 streamlit
-PIL
+pillow
 numpy
-pickle
